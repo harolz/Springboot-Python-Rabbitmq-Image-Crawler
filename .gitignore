@@ -1,0 +1,8 @@
+/python2-scrapper/scraped_imgs
+/python2-scrapper/venv
+/bin/
+/build/
+/.idea/
+/gradle/
+*.pyc
+*.iml
